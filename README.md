@@ -1,6 +1,8 @@
 ## Hi there, I'm Bao - aka Gechym 😘😘 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ~ https://gechym-socket-io-mern.herokuapp.com/
 
+~ https://play.tailwindcss.com/y1C8mHujSO?layout=preview
+
 1. https://www.youtube.com/c/TraversyMedia - Traversy Media
 2. https://www.youtube.com/c/DevTipsForDesigners - DevTips
 3. https://www.youtube.com/c/programmingwithmosh/featured - Programming with Mosh
