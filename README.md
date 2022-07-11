@@ -3,6 +3,11 @@
 
 ~ https://play.tailwindcss.com/y1C8mHujSO?layout=preview
 
+
+
+      https://blog.sucuri.net/2021/10/how-to-set-up-a-content-security-policy-csp-in-3-steps.html
+
+
 1. https://www.youtube.com/c/TraversyMedia - Traversy Media
 2. https://www.youtube.com/c/DevTipsForDesigners - DevTips
 3. https://www.youtube.com/c/programmingwithmosh/featured - Programming with Mosh
